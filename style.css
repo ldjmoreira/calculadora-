@@ -1,0 +1,114 @@
+* {margin: 0;padding: 0;font-size: 100%;border:none;outline: none;font-weight: 300;box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;}
+
+body {
+ background-color: rgb(0, 120, 212);
+}
+
+.main {
+    width: 100%;
+    height: auto;
+    align-content: center;
+    float: left;
+}
+.corpo {
+    width: 80%;
+    height: 580px;
+   /* background-color: rgb(114, 125, 134); */
+    float: left;
+    margin-top: 20px;
+    margin-left: 8%;
+    margin-right:8% ;
+    margin-bottom: 20px;
+    background: linear-gradient( 135deg, rgb(114, 125, 134),rgb(132, 144, 156));
+    border-radius: 2px;
+    
+}
+
+.tela {
+    float: left;
+    width: 84%;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 8%;
+    margin-right:8% ;
+    margin-bottom: 20px;
+    background: linear-gradient(135deg,rgb(79,229,255), rgb(47,178,230));
+    /* box-shadow: 1px 1px 2px 2px rgb(97,120,130); */
+}
+
+.st {
+    float: left;
+    width: 84%;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 8%;
+    margin-bottom: 20px;
+   /* background-color: rgb(202, 210, 217); */
+}
+
+.es {
+    float: left;
+    width: 21.8%;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 0%;
+    margin-bottom: 20px;
+    margin-right: 2%;
+    background-color: rgb(202, 210, 217);
+    box-shadow: 0 4px 4px -2px rgb(97,120,130);
+    -moz-box-shadow: 0 4px 4px -2px rgb(97,120,130);
+    -webkit-box-shadow: 0 8px 8px 8px rgb(97,120,130);
+}
+
+.ct {
+    float: left;
+    width: 21.8%;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 2%;
+    margin-bottom: 20px;
+    margin-right: 2%;
+    background-color: rgb(202, 210, 217);
+    
+    box-shadow: 0 4px 4px -2px rgb(97,120,130);
+    -moz-box-shadow: 0 4px 4px -2px rgb(97,120,130);
+    -webkit-box-shadow: 0 8px 8px 8px rgb(97,120,130);
+}
+
+.ct4 {
+    float: left;
+    width: 21.8%;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: 2%;
+    margin-bottom: 20px;
+    margin-right: 0%;
+    background-color: rgb(202, 210, 217);
+    box-shadow: 0 4px 4px -2px rgb(97,120,130);
+    -moz-box-shadow: 0 4px 4px -2px rgb(97,120,130);
+    -webkit-box-shadow: 0 8px 8px 8px rgb(97,120,130);
+}
+span{
+    float: right;
+    width: 100%;
+    text-align: right;
+    margin-top: 80px;
+    padding-right: 1%;
+}
+h2 {
+
+}
+
+button {
+    float: left;
+    width: 100%;
+    background-color: rgb(202, 210, 217);
+    cursor: pointer;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+h3 {
+    font-size: large;
+}
